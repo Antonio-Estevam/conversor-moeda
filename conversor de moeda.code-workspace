@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "conversor de moeda",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "conversor de moeda"
+	}
+}
